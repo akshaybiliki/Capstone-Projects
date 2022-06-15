@@ -1,2 +1,2 @@
-# Project-2
-Compny_Play_smart
+#Capstone Project with R
+
